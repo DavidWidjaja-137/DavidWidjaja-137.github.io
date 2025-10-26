@@ -3,18 +3,16 @@ title: Home
 ---
 Hi, welcome to my website!
 
-I'm David. I'm a Engineer-in-Training currently based in Vancouver, Canada. My passion 
-and focus is in the intersection between renewable energy engineering and software 
+I'm David. I'm a Renewable Energy Analyst and Software Developer currently based in Jakarta, Indonesia. My passion 
+and focus is in the intersection of renewable energy engineering and software 
 engineering. I am also interested in environmental and energy policy, as well as ecology 
-and systems thinking. I believe that insights into intractable problems can be obtained 
-from the dialogue between frameworks, persons, and <i>thous</i>.
+and systems thinking. 
 
 I am from Jakarta, Indonesia and I graduated from the University of British Columbia with a BASc in 
 Engineering Physics. My studies revolved around embedded systems, mechatronics, software design, 
-mathematics, and physics. I am currently working as a Renewable Energy Analyst/Software Developer 
-in Vancouver.
+mathematics, and physics.
 
-On the side, I enjoy playing the violin, practising the piano, going down Wikipedia rabbitholes, 
+On the side, I enjoy playing the violin, practising the piano, Wikipedia, 
 reading and discussing literature, going to the gym, running, and hiking.
 
 Here you will find my technical blogs, which will be a compilation of readings and side 
