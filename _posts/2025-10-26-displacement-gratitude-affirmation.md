@@ -17,6 +17,6 @@ I've collected the impressions, thought processes, and mindsets recorded here fr
 
 The title references Peter Singer's famous essay, **Famine, Affluence, Morality**.
 
-### Construction
+### Notice
 
-This page is under construction. Email me if you are interested in a draft of this essay, and I will get back to you!
+Email me if you are interested in a copy of this essay, and I will get back to you!
