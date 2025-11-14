@@ -36,7 +36,7 @@ A recurring theme in my upbringing was me, quite bluntly, asking my family, teac
 
 I think my moment of alienation came when I recognized hell on earth, while my church and my community remained in denial about it:
 
-_"Look at your feet. Do you see the millions scrabbling desparately in the slums and refugee camps for another tomorrow - not for a better future, but merely for shattered, broken survival? Extend your gaze towards the horizon. Do you see the looming shadow of climate catastrophe? Consider your own children. Do you want to raise them in such a world? Raise a fist against heaven. "You disgust me. You've created the keys to paradise, but you lock its gates against us." _
+_"Look at your feet. Do you see the millions scrabbling desparately in the slums and refugee camps for another tomorrow - not for a better future, but merely for shattered, broken survival? Extend your gaze towards the horizon. Do you see the looming shadow of climate catastrophe? Consider your own children. Do you want to raise them in such a world? Raise a fist against heaven. "You disgust me. You've created the keys to paradise, but you lock its gates against us."_
 
 _"And look at what you've been able to achieve, when you put your mind to it. If man is utterly free to realize his own plan for the world, but if he wins this freedom by rejecting the apathetic capriciousness of God, then he is constrained to conduct himself with altruistic, benevolent strength."_
 
@@ -101,11 +101,17 @@ The process of creating a new framework for morality and action was a long and a
 
 ### The right to be happy
 
-*Nausicaa: I feel so strange, as if the inside of my body has become transparent.
-Selm: Its almost dawn.
-Nausicaa: Its beautiful. I feel as if I've been reborn. I can't stop crying.
-Selm: Are you cold?
-Nausicaa: No. I was just wondering if its alright to be so happy. - Nausicaa of the Valley of the Wind*
+*Nausicaa: I feel so strange, as if the inside of my body has become transparent.*
+
+*Selm: Its almost dawn.*
+
+*Nausicaa: Its beautiful. I feel as if I've been reborn. I can't stop crying.*
+
+*Selm: Are you cold?*
+
+*Nausicaa: No. I was just wondering if its alright to be so happy.*
+
+*- Nausicaa of the Valley of the Wind*
 
 Radical hope therefore became a cornerstone of my sense of self. Without achievements to be proud of, without self-esteem, always seemingly cursed to fail, I pushed forward in the hope that I can still be someone to someone else. In the hope that I can attain myself and my responsibilities on this earth. In the hope that amidst the overwhelming despair of a climate catastrophe, I can one day **matter** in the great work of holding the world together.
 
@@ -157,7 +163,7 @@ I felt as though lasting happiness was always ahead of me, always conditional, a
 
 ### Famine, Affluence, Morality
 
-*"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it." - Peter Singer
+*"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it." - Peter Singer*
 
 Entering my final year of university, I remained deeply troubled by what I had seen, and this had a major impact on my academic performance. Where I once had trouble waking up, intrusive thoughts now kept me awake all night. Beyond my work on the energy transition, my support for humanitarian aid, and my struggle to excel academically, I was locked in a desperate struggle for a sense of self.
 
@@ -338,7 +344,7 @@ I rebuilt what I had neglected in the chaotic upheaval of my migration. I comple
 
 ### Despair
 
-*Look at your feet. Look there, at your own feet. Among the dead there are those you killed yourself. How dare you feign innocence? Try all you like to remain an undefiled child. But it won't do you any good... You are nothing more than just another foolish, filthy human being. You're a full-grown human being. A bloody woman of a cursed people. You should be writhing there along with the dead!! Soon enough you will come to recognize my virtue. -  Nausicaa of the Valley of the Wind*
+*Look at your feet. Among the dead there are those you killed yourself. How dare you feign innocence? Try all you like to remain an undefiled child. But it won't do you any good... You are nothing more than just another foolish, filthy human being. A bloody woman of a cursed people. You should be writhing there along with the dead!! Soon enough you will come to recognize my virtue. -  Nausicaa of the Valley of the Wind*
 
 And yet, I could not shake the idea that I was, at my core, still _hollow_. As if I had lost my soul along the way. I haven't been saving to buy a house or car, I haven't been searching for a partner, and I have stopped entertaining the idea of having children altogether. Somewhere along the way, I had abandoned the traditional milestones of adulthood and replaced them with an overriding directive: _Mitigate climate change, improve your community, and take care of your parents. Or die trying._ My hobbies and interests, even my irrational cravings, were all just there to shore up my sanity, instead of being inherently valuable elements of my personality. My interactions with others were just faces I wear. Aside from several core principles and memories, I wondered if I had any personality at all.
 
