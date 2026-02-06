@@ -16,7 +16,7 @@ I considered long and hard, before ultimately deciding to release my writing int
 
 I've collected the impressions, thought processes, and mindsets recorded here from my journal entries, text messages, and also, from my own recollections. I've done my best to represent myself truthfully, but constructing a narrative from memory always introduces subjectivity and the presence of hindsight, and so I acknowledge that there may be motivations and impulses unknown to, or hidden from, myself.
 
-The title is a reference to Peter Singer's classic essay on ethics, **[Famine, Affluence, Morality](https://www.givingwhatwecan.org/get-involved/videos-books-and-essays/famine-affluence-and-morality-peter-singer)**.
+The title is a reference to Peter Singer's classic essay on ethics, **[Famine, Affluence, and Morality](https://www.givingwhatwecan.org/get-involved/videos-books-and-essays/famine-affluence-and-morality-peter-singer)**.
 
 This essay contains spoilers to Fyodor Dostoevsky's **[The Brothers Karamazov](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)** and Hayao Miyazaki's **[Nausicaa of the Valley of the Wind](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga))**. Earlier this year, I tried to write an academic essay about these two books, but I could not finish it without putting my heart into it. I then started to write an polemic essay to shame my peers into introspecting more seriously about their own lives and the impact of their unaccountable, irresponsible use of their privileges, but then I started introspecting into the contradictions of own life. I then started to write about myself, but I could not do it without these books.
 
@@ -28,7 +28,7 @@ So here we are.
 
 *"Look at yourself. You disgust me. You've been given enormous privilege and talent, and you are wasting it. You want to take on the burden of saving the world? You can't even be strong to yourself."*
 
-I had a habit of winning, though I tried to be humble about it. When one is already successful and is widely perceived as being such, one can afford an image of humility, knowing that the adulation of others will always be present to nourish one's arrogance. Graduating from high school, I had done well in many things, from music to martial arts, from scorecards to scholarships. Entering and completing my first year at the University of British Columbia, half a world away, I found little to shake the belief that I can achieve great things in life.
+I had a habit of winning, though I tried to be humble about it. When one is already successful and is already perceived as being such, one can afford an image of humility, knowing that the adulation of others will always be present to nourish one's arrogance. Graduating from high school, I had done well in many things, from music to martial arts, from scorecards to scholarships. Entering and excelling in my first year at the University of British Columbia, half a world away, I found little to shake the belief that I can achieve great things in life.
 
 I remembered caring deeply about humanity, albeit in an abstract sense, for most of my early teenage years. In a personal way, I was appalled at the pitiful conditions that many Indonesians endure daily, and the abysmal state of our built and natural environment. More broadly, I was deeply affected by the events of my day: The Egyptian Revolution of 2011 and El-Sisi's crackdown, the Syrian Civil War and the migrant crisis that followed, the Lybian Revolution and the ensuing protracted conflict. And I studied the history of our world, from the ideologies and wars and genocides, to the ongoing climate crisis.
 
@@ -52,9 +52,9 @@ Looking back, I realize that I had made enormous progress during those years, bo
 
 As my faith in my own abilities eroded, I began confronting my philosophy of self-responsibility. Throughout my childhood, I had taken responsibility over my work, and I had enjoyed the fruits of my successes. I had extended assistance to my peers openhandedly, believing that if they show responsibility over their academics, they have every right to succeed.
 
-Yet, during those days, nomatter how tired I became, nomatter how much I put myself responsible for, I could not manifest decisive proof of my abilities. At the time, I saw three possible reasons for my predicament, that (1) I was not pushing myself hard enough, (2) My old mindset wasn't working and it needed to evolve, or (3) I had grossly overestimated myself from the very beginning.
+Yet, during those days, nomatter how tired I became, nomatter how much I made myself responsible for, I could not manifest decisive proof of my abilities. At the time, I saw three possible reasons for my predicament, that (1) I was not pushing myself hard enough, (2) I had grossly overestimated myself from the very beginning, or (3) My old mindset wasn't working and it needed to evolve.
 
-A strong mindset requires internal consistency, and I believed that my determination came from my burning desire to mitigate climate change. And so began a multi-year project to burn away everything that was weak and inconsistent about my actions and personality. I became a vegetarian and a zero-waste enthusiast. I redoubled my commitments to my renewable energy engineering teams projects and meditated on the roots of my shortcomings.
+A strong mindset requires internal consistency, consistency requires immutable axioms, and I believed that my determination came from my burning desire to mitigate climate change. And so began a multi-year project to burn away everything that was weak and inconsistent about my actions and personality. I became a vegetarian and a zero-waste enthusiast. I redoubled my commitments to my renewable energy engineering teams projects. I meditated on the roots of my shortcomings.
 
 March 2020. My engineering project was dangerously overdue for a competition deadline. My academics were still in shambles and I was in danger of losing my scholarship. My summer internship was cancelled due to the pandemic. And like a violin with its soundpost knocked out, I still could not make a sound, could not resonate to save myself.
 
@@ -86,7 +86,9 @@ Is our presence here a mistake, then? Every new moment of existence lends itself
 
 Is all morality and virtue only a pale substitute to cessation? Are we all simply too ignorant to realize the virtues of non-existence? 
 
-Yet even as I accepted the logic of non-being, stemming from a materialistic, dispassionate approach towards minimising suffering, I continued to yearn for the fire which had first opened my heart to suffering. When Greg Egan constructed living, conscious universes out of nothing but dust in his science fiction novel _'Permutation City'_, I lay awake pondering if the human spirit can really persist in, even arise out of, mere random numbers and darkness. When Nausicaa from _'Nausicaa of the Valley of the Wind'_ gave her own life to avert the destruction of her people, I was remembered why I wanted to be strong in the first place, and wished to be able to believe in a messiah such as her again. When Hayao Miyazaki's _"Princess Mononoke"_ proclaimed _"Life is suffering. It is hard. The world is cursed. But still you find reasons to keep living"_, it dawned on me that there are forces stronger than reason, greater than suffering, that drive the human condition.
+Yet even as I accepted the logic of non-being, stemming from a materialistic, dispassionate approach towards minimising suffering, I continued to yearn for the fire which had first opened my heart to suffering. 
+
+When Greg Egan constructed living, conscious universes out of nothing but dust in his science fiction novel _'Permutation City'_, I lay awake pondering if the human spirit can really persist in, even arise out of, mere random numbers and their permutations. When Nausicaa from _'Nausicaa of the Valley of the Wind'_ gave her own life to avert the destruction of her people, I remembered why I wanted to be strong in the first place.. When Hayao Miyazaki's _"Princess Mononoke"_ proclaimed _"Life is suffering. It is hard. The world is cursed. But still you find reasons to keep living"_, it dawned on me that there are forces stronger than reason, greater than suffering, that drive the human condition.
 
 Cautiously, I began to entertain hope, hope as a gentle wind streaming through the iron latticework of rationality and utility. Idealistic hope that we can explore and understand the structure of our affliction, and that each of us can look past our bounded rationality and contribute to an inclusive solution. Desperate hope that the children in the refugee camps can hold on just a little longer, just until the war ends and they can return home. Ecological hope, that nature is stronger and more resilient than man's capacity for destruction.
 
@@ -111,7 +113,7 @@ The process of creating a new framework for morality and action was a long and a
 
 *Nausicaa: No. I was just wondering if its alright to be so happy.*
 
-*- Nausicaa of the Valley of the Wind*
+\- Selm and Nausicaa, in *Nausicaa of the Valley of the Wind*
 
 Radical hope therefore became a cornerstone of my sense of self. Without achievements to be proud of, without self-esteem, always seemingly cursed to fail, I pushed forward in the hope that I can still be someone to someone else. In the hope that I can attain myself and my responsibilities on this earth. In the hope that amidst the overwhelming despair of a climate catastrophe, I can one day **matter** in the great work of holding the world together.
 
@@ -145,7 +147,7 @@ I wondered if I had become inhuman. Had I lost the humanity to mourn, or had I a
 
 I attended the funeral mass, and though I had stopped believing, I could not help but yearn to see my friend again. I reflected upon the Christian conception on heaven and hell, and how it informs our attitudes towards death and salvation. 
 
-Should someone die, and be brought to Saint Peter at the gate of heaven, how does one answer the challenge of "How can thou presume to enter into communion with God?"? By reciting the Nicene Creed, demanding salvation through an orthodoxy of faith? By good works, though earthly benevolence cannot be extricated from exploitation? To bow ones head, admit one's guilt before God, and to walk away? No, one can only recognize one's sin and beg for forgiveness, without any presumption of deservedness.
+Should someone die, and be brought to Saint Peter at the gate of heaven, how does one answer the challenge of "How can thou presume to enter into communion with God?"? By reciting the Nicene Creed or the Westminster Confession, demanding salvation through an orthodoxy of faith? By good works, though earthly benevolence cannot be extricated from exploitation? To bow ones head, admit one's guilt before God, and to walk away? No, one can only recognize one's sin and beg for forgiveness, without any presumption of deservedness.
 
 And yet, should someone die, and upon entering full communion with God, be given the same choice presented to Jesus Christ in that extratemporal age: To descend into that place of eternal torment to take the place of one's tormentor in life, or to turn one's back on one's neighbour for an eternity of bliss alone?
 
@@ -155,15 +157,17 @@ What is Christianity, beyond its promise of salvation after death? Could salvati
 
 During the day, I threw myself into my work. I built frameworks and systems that would remain in use long after I had left. I worked long hours, driven by a newfound sense of concordance between myself and my place in this world. I continued to give much of my salary to humanitarian aid.
 
-At night, I lay awake, troubled yet fascinated by the ideas and perspectives opened up by my stumbling forwards. Moral philosophy, the great belief systems, the everpresent anxiety of climate catastrophe, experience and reflection, permutations arising within permutations in an effort to arrive at a system by which to understand my world.
+At night, I lay awake, troubled yet fascinated by the ideas and perspectives opened up by my stumbling forwards. Moral philosophy, the great belief systems, the everpresent anxiety of climate catastrophe, experience and reflection, permutations arising within permutations in an effort to arrive at a system to understand my world.
 
 In those days, I sometimes felt that everything would be alright, that I could finally be content with myself and enjoy the summer warmth. But, those moments were fleeting. In everything I did, I felt like a nascent core of self-image drowning in an ocean of my inadequacies.
 
 I felt as though lasting happiness was always ahead of me, always conditional, always something that I had no inherent right to.
 
-### Famine, Affluence, Morality
+### Famine, Affluence, and Morality
 
-*"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it." - Peter Singer*
+*"If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it."*
+
+\- Peter Singer, *Famine, Affluence, and Morality*
 
 Entering my final year of university, I remained deeply troubled by what I had seen, and this had a major impact on my academic performance. Where I once had trouble waking up, intrusive thoughts now kept me awake all night. Beyond my work on the energy transition, my support for humanitarian aid, and my struggle to excel academically, I was locked in a desperate struggle for a sense of self.
 
@@ -179,7 +183,7 @@ And even within affluent Vancouver, one feels the growing desperation. The rents
 
 As before, something deep within me told me that it was wrong to accumulate so much wealth while so much suffering persists. Whether it be the voice of reason, the logic of utility, the crying out of conscience, or the very Word of God, I could not ascertain.
 
-I recalled the work of the utilitarians, from the calculus of Jeremy Bentham to the 'drowning child' thought experiments of Peter Singer, from Giving What We Can's effective altruism to my friends who stand by it. As Peter Singer writes in his seminal essay, "**Famine, Affluence, Morality**", _"It makes no moral difference whether the person I can help is a neighbor's child ten yards away from me or a Bengali whose name I shall never know, ten thousand miles away. If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it"._
+I recalled the work of the utilitarians, from the calculus of Jeremy Bentham to the 'drowning child' thought experiments of Peter Singer, from Giving What We Can's effective altruism to my friends who stand by it. As Peter Singer writes in his seminal essay, "**Famine, Affluence, and Morality**", _"It makes no moral difference whether the person I can help is a neighbor's child ten yards away from me or a Bengali whose name I shall never know, ten thousand miles away. If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, then we ought, morally, to do it"._
 
 I remembered my Christian upbringing, and the ideas about tithing and charity that emerged from it. I surfaced the bitterness and rage of my turning away from God, and the promise I made that I would be at least twice as compassionate, twice as generous and altruistic, as those self-satisfied Christians. I resumed my struggle to find faith again, apart from the self-righteous moralizing and threats of hellfire, but instead emerging from the transformation of the soul through suffering and self-sacrifice into salvation.
 
@@ -191,7 +195,10 @@ I drew upon Immanuel Kant's categorical imperatives. I found good advice within 
 
 The multitude of worldviews and voices, quarrelsome and contentious without rest, had for once, converged as a chorus upon a single point - that is, that the suffering are entitled to the wealth that I currently possess.
 
-Once, I gave to ground myself against my own displacement and despair. When I became stronger, I gave with a spirit of gratitude and compassion. And now, it has become something inseperable from myself.
+Once, I gave to ground myself against my own dimassacred in Kabul the same week - had my friend become just another statistic in my mind, or had I accepted the death of one friend, 69 times?
+
+I attended the funeral mass, and though I had stopped believing, I could not help but yearn to see my friend again. I reflected upon the Christian conception on heaven and hell, and how it informs our attitudes towards death and salvation. 
+splacement and despair. When I became stronger, I gave with a spirit of gratitude and compassion. And now, it has become something inseperable from myself.
 
 I set aside an emergency fund from my own salary. For two working years, I gave everything above that to effective humanitarian aid, environmental causes, and community organizations. In that time, I started playing the violin again, exercising, writing, and working on personal projects. I found friends and mentors who would influence my life for the better.
 
@@ -202,9 +209,11 @@ I wasn't always happy during these years - I was still stressed and frustrated a
 
 ### The Grain of Wheat
 
-*"Water the earth with your tears, and love those tears." - Fyodor Dostoevsky, The Brothers Karamazov*
+*"Water the earth with your tears, and love those tears."*
 
-I wasn't able to appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
+\- Father Zossima, in *The Brothers Karamazov*
+
+I could appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
 
 The one part of Dostoevsky's corpus that stuck with me throughout university was The Grand Inquisitor, and its enigmatic ending. I tried on many occasions to make sense of it, but I always left empty-handed.
 
@@ -218,7 +227,7 @@ And re-reading _The Brothers Karamazov_ was like being pierced in the heart. The
 
 I became Alyosha and his struggle to maintain faith in God and to be a good person, in a world without direction. I became Dmitri, tortured by both his inexorable will to live and his incessant pursuit of oblivion. I became Ivan, crying out to heaven over the deaths of innocent children until cold rationality tells him that crying is useless. I became Smerdyakov too, driven to horrifying conclusions by ideas he had not understood completely.
 
-And I was profoundly moved by the testament of Father Zossima. That our world is sustained by relationships with many other mysterious worlds, and that by turning away from this ecology we risk losing ourselves. That Hell is not a physical place, but rather the torment of being unable to love. That through our ecological connection with everyone else, we become responsible for the sins of the world entire, and therefore we must be strong enough to forgive and to bear the consequences of the entire world.
+And I was profoundly moved by the testament of Father Zossima. That our world is sustained by relationships with many other mysterious worlds, and that by turning away from this ecology we risk losing ourselves. That hell is not a physical place, but rather the torment of being unable to love. That through our ecological connection with everyone else, we become responsible for the sins of the world entire, and therefore we must be strong enough to forgive and to bear the consequences of the entire world.
 
 The Grand Inquisitor, in his piercing criticism of this strand of Christ-like morality, maintains that Man will never be strong enough to endure this terrible burden, nor can he be loving and forgiving enough to create this *ecology of freedom*. All Man is is livestock, to be given feed instead of hope, to be shown certainty instead of faith, and to be taught submission instead of love, from the day of his birth to the moment of his slaughter.
 
@@ -258,9 +267,9 @@ Years ago, Hayao Miyazaki's film, _Nausicaa of the Valley of the Wind_, helped m
 
 In Nausicaa, a young princess forced into an ecological catastrophe and an apocalyptic conflict to protect her people, I found a character taking responsibility for the sins of an entire world. From ecosystem collapse to refugee crises to genocide, she bears every transgression of our globe-spanning civilization, and she does so willingly, out of love, for every human and non-human person she encounters.
 
-And in Nausicaa, I found someone who I would follow to the ends of the earth and into Hell itself. The books themselves are a terrifying exploration of suffering and Hell. As the reader loves the princess for her compassionate and self-sacrifical nature, one draw closer to her. When she can lift someone out of the incessant misery of her world, one experiences love towards them. When they succumb and die, Nausicaa's guilt at having been responsible and having failed becomes one's guilt as well. And when the world cries out in agony, when Nausicaa is overwhelmed and on the verge of collapse, one feels as though they are being crucified alongside her, as though they too are drawing towards themselves the sin of the entire human race.
+And in Nausicaa, I found someone who I would follow to the ends of the earth and into hell itself. The books themselves are a terrifying exploration of suffering and hell. As the reader loves the princess for her compassionate and self-sacrifical nature, one draw closer to her. When she can lift someone out of the incessant misery of her world, one experiences love towards them. When they succumb and die, Nausicaa's guilt at having been responsible and having failed becomes one's guilt as well. And when the world cries out in agony, when Nausicaa is overwhelmed and on the verge of collapse, one feels as though they are being crucified alongside her, as though they too are drawing towards themselves the sin of the entire human race.
 
-One is left wondering if Hell is to have never encountered Nausicaa, or to have loved her.
+One is left wondering if hell is to have never encountered Nausicaa, or to have loved her.
 
 From Ivan's hatred of the incessant malice present in God's world, _The Brothers Karamazov_ builds a strong case against faith in God, and from the depraved nature of Man, a strong case against Man's capacity to follow a Messiah towards salvation. However, Dostoevsky then demonstrates the inadequacy of such a worldview in addressing the very problems it despises. Instead, one could love. A humble, selfless love that shoulders burdens and engenders self-sacrifice, a humanitarian love towards the Dmitris of our world, a love that sees past heaven and hell and recognizes the ecology of all things. And from that form of love, one regains themselves and their faith in God.
 
@@ -272,7 +281,7 @@ What is left, then?
 
 *"For the sake of a single sprout, countless forest spores rain down again and again, dying a useless death" - Nausicaa of the Valley of the Wind*
 
-That we must live. When we devote our life and death to high ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. And for one person to receive the gifts of love, faith, and hope in their life, many other persons around the world, human and non-human, subsist in a truncated and deficient way. If someone constructs their denunciation of God's world from the suffering inflicted on those persons, they must either seek to eradicate the same suffering to remain consistent, or to accept the absence of any values whatsover. However, if one creates their affirmation of life by the presence of these ideals, one is forced to live by them, and if necessary, to die for them.
+That we must live. When we devote our life and death to high ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. And for one person to receive the gifts of love, faith, and hope in their life, many other persons around the world, human and non-human, subsist in a truncated and deficient way. If someone constructs their denunciation of God's world from the suffering inflicted on those persons, they must either seek to eradicate the same suffering to remain consistent, even if it means rejecting the world entire, or to accept the absence of any values whatsover. However, if one creates their affirmation of life by the presence of these ideals, one is forced to live by them, and if necessary, to die for them.
 
 And to know the price of the ideals that we embody is borne by an entire world of suffering, we must realize that each of us are responsible for the sins of an entire world. To maintain an affirmation of life from these ideals, one must find it within themselves to make amends for everyone. And for others to maintain an affirmation of life from these ideals, one must find it within themselves to forgive everyone. From this principle stems, like a natural ecology that lives within even the smallest leaf and the tiniest insect, an ecology of love that reaches from the depths of hell to the presence of God.
 
@@ -286,11 +295,13 @@ God is alive in the beauty and the suffering of life's conversation with life. I
 
 *Can we be good people? Or have we just been pretending to be good people, all this while?"*
 
-At the 2023 Fridays for the Future climate march, I reflected on the results of the worldview I adhered to, and found that it was good. I was doing good work that I was proud of, working on personal projects, improving my technical skills, practising the violin, and exercising. Each month, I gave almost all of my disposable income for humanitarian and environmental needs, and I knew with certainty that many lives were being saved and improved because of this. Horrible crimes were being perpetrated around the world, but so long as I utterly commit to their resolution, I could be content. There was nothing left for me to do, therefore, nothing to feel anguished about.
+At the 2023 Fridays for the Future climate march, I reflected on the results of this worldview, and found that it was good. I was doing good work that I was proud of, working on personal projects, improving my technical skills, practising the violin, and exercising. Each month, I gave almost all of my disposable income for humanitarian and environmental needs, and I knew with certainty that many lives were being saved and improved because of this. Horrible crimes were being perpetrated around the world, but so long as I utterly commit to their resolution, I could be content.
+
+There was nothing left for me to do, therefore, nothing to feel anguished about.
 
 One month later, Palestinian militants attempted to reclaim their country by force, and the Israeli military responded by attempting genocide.
 
-Journalists were being murdered everywhere. But, the footage that did come out were a vista of Hell. Entire neighborhoods being ground to dust. Skeletal children sifting flour from the dirt. Bloodied stumps of limbs beyond counting, and rows of white shrouds beyond number. Furthermore, this was not the brutish macheting of unsophisticated third world warlords, but rather a genocide perpetrated with the  knowledge, consent, and capability of the most developed, most advanced, and most moralizing countries of the world.
+Journalists were being murdered everywhere. But, the footage that did come out were a vista of hell. Entire neighborhoods being ground to dust. Skeletal children sifting flour from the dirt. Bloodied stumps of limbs beyond counting, and rows of white shrouds beyond number. Furthermore, this was not the brutish macheting of unsophisticated third world warlords, but rather a genocide perpetrated with the  knowledge, consent, and capability of the most developed, most advanced, and most moralizing countries of the world.
 
 The Western moral canon has given birth to democracy, the rule of law, virtue ethics, universalizable principles, and consequentialism. It has laid the foundations of modern humanitarianism and environmentalism. International visitors such as myself see great value in learning about these ideas to better our own countries. Even the horrible crimes of these powerful countries in colonialism, genocide, and environmental destruction were worth learning about to avoid repeating. 
 
@@ -304,11 +315,11 @@ Several months of savings, with some extra from tax returns and severance pay - 
 
 In a moment of personal crisis, I wondered if I had made a mistake coming here to study and to work, and that by extension I had misused the resources entrusted to me across my lifetime. If the good done by me being here is less than the public wealth increased by my parents simply spending the cost of my education on vacations and leisure, then I should not be here.
 
-Nervously, I did the economic calculation, tabulating the entire cost of my education against the opportunities to do good afforded to me by my education. I then compared the number of livelihoods that would have been supported in Indonesia by the cost of my education reduced by the number of livelihoods supported in Canada by my tuition fees, to the number of livelihoods made possible by the humanitarian aid I have given. I then applied two principles: 1) A human life anywhere is worth exactly the same, and 2) A human livelihood made possible anywhere is worth *almost* exactly the same, because basic human needs can be met very inexpensively anywhere, but higher needs require more significant investment.
+Nervously, I did the economic calculation, tabulating the entire cost of my education against the opportunities to do good afforded to me by my education. I then compared the number of livelihoods that would have been supported in Indonesia by the cost of my education reduced by the number of livelihoods supported in Canada by my tuition fees, to the number of livelihoods made possible by the humanitarian aid I have given. I then applied two principles: (1) A human life anywhere is worth exactly the same, and (2) A human livelihood made possible anywhere is worth *almost* exactly the same, because basic human needs can be met very inexpensively anywhere, but higher needs require more significant investment.
 
 The results were startling. 23 person-years of the average Indonesian livelihood, pouring upwards into my parent's investments, had been invested into my education. Between 16 - 130 person-years of livelihood have been made possible by my humanitarian contributions. It is therefore, extremely likely that my journey to this point had not been a mistake.
 
-There was a sense of elation at first, but once again, the same emptiness. I had just tried to prove my own goodness and justify my privileges with economics. If someone in a difficult situation were to perform the same calculation, even if they were a heroic revolutionary or saint dependent on the financing of others, they would be trapped in a societal debt so deep as to appear as no recourse were possible.
+There was a sense of elationthe darkness of my own humanity. at first, but once again, the same emptiness. I had just tried to prove my own goodness and justify my privileges with economics. If someone in a difficult situation were to perform the same calculation, even if they were a heroic revolutionary or saint dependent on the financing of others, they would be trapped in a societal debt so deep as to appear as no recourse were possible.
 
 The important question isn't 'can you justify your privileges and sense of goodness' - when one and one's world is complicit in genocide, there can be no justifications of privilege, nor proof of beneficience. 
 
@@ -322,9 +333,9 @@ I got a new job across the country. Packing up my belongings and saying goodbye,
 
 ### Displacement
 
-_"Who do you affirm? Can you affirm yourself?"_
+_"Who are you to affirm life? Can you affirm yourself?"_
 
-Being unemployed and having to uproot myself across the country pushed my financial situation to an uncomfortable position. I had to question my assumptions of abundance, that there will always be more to become, more to do, more to earn, and more to give. I realized that as the jobs I take became ever more specialized and valuable, I had to set aside ever-larger buffers for rainy days. Reluctantly, I halved my humanitarian contributions to rebuild my rainy day fund, knowing full well that the humanitarian situation remained critical. Not 'me or them', I told myself, but 'me for them'.
+Being unemployed and having to uproot myself across the country pushed my financial situation to an uncomfortable position. I had to question my assumptions of abundance, that there will always be more to become, more to do, more to earn, and more to give. I realized that as my work became ever more specialized and valuable, I had to set aside ever-larger buffers for rainy days. Reluctantly, I halved my humanitarian contributions to rebuild my rainy day fund, knowing full well that the humanitarian situation remained critical. Not 'me or them', I told myself, but 'me for them'. 
 
 I arrived in Guelph, a small city in southern Ontario. I deliberately chose humbler accomodations, and I ended up downgrading from a private studio to a 3-bedroom apartment with 4 other people. What I gained from this, however, wasn't just savings. It was perspective.
 
@@ -344,7 +355,9 @@ I rebuilt what I had neglected in the chaotic upheaval of my migration. I comple
 
 ### Despair
 
-*Look at your feet. Among the dead there are those you killed yourself. How dare you feign innocence? Try all you like to remain an undefiled child. But it won't do you any good... You are nothing more than just another foolish, filthy human being. A bloody woman of a cursed people. You should be writhing there along with the dead!! Soon enough you will come to recognize my virtue. -  Nausicaa of the Valley of the Wind*
+*Look at your feet. Among the dead there are those you killed yourself. How dare you feign innocence? Try all you like to remain an undefiled child. But it won't do you any good... You are nothing more than just another foolish, filthy human being. A bloody woman of a cursed people. You should be writhing there along with the dead!! Soon enough you will come to recognize my virtue.*
+
+\- The Voice of Nothingness to Nausicaa, *Nausicaa of the Valley of the Wind*
 
 And yet, I could not shake the idea that I was, at my core, a hollow being, a shell of a person. Somewhere along the way, I had abandoned the traditional milestones of adulthood and replaced them with an overriding directive: _Mitigate climate change, improve your community, and take care of your parents. Or die trying._ My hobbies and interests, even my irrational cravings, were all just there to shore up my sanity, instead of being inherently valuable elements of my personality. My interactions with others were just faces I wear. Aside from several core principles and memories, I wondered if I had any personality at all.
 
@@ -354,7 +367,7 @@ If the world is so vast, magnificent, and beautiful, and if I have had the oppor
 
 I've been waiting, for years now, for a new moment of enlightenment. Water overflowing their reservoirs, streams colliding and joining with force, a great river surging forwards towards perfection. I would drown in this flow, be consumed by it, and give life to a hundred thousand trees before reaching the ocean. But instead, from a muddy, stagnant, pool, my own reflection stares back.
 
-And so I come to understand again despair. The constant that binds my past and present together, as well as my future. Nomatter how eloquently I can articulate my convictions, nomatter how much I convince myself that a better person has emerged out of the old, in truth I have not been able to escape my flaws. I cannot escape the darkness of my own humanity.
+And so I come to understand again despair. The constant that binds my past and present together, as well as my future. Nomatter how eloquently I can articulate my convictions, nomatter how much I convince myself that a better person has emerged out of the old, in truth I have not been able to escape my flaws. Despite the light I have seen, I cannot escape the darkness of my own humanity.
 
 No one can. From conflict to conflict, atrocity to atrocity, genocide to genocide - we have not learnt anything. We remain cursed to repeat our mistakes over and over again. Words like _gratitude_ and _affirmation_ turn to ash and dust in my mouth as I recall the hundreds of thousands dead.
 
@@ -362,9 +375,13 @@ Each of us, we are not only responsible for the sins of the world, in the sense 
 
 ### Flowers Blooming in the Church
 
-*Even if our bodies cannot tolerate that purity... even if the moment we are exposed to it, we spew blood from our lungs... just as the birds migrate across the land, we shall live, and live again. - Nausicaa of the Valley of the Wind*
+*Even if our bodies cannot tolerate that purity... even if the moment we are exposed to it, we spew blood from our lungs... just as the birds migrate across the land, we shall live, and live again.*
 
-*I see the sun, and if I don't see the sun, I know it's there. And there's a whole life in that, in knowing that the sun is there. -Fyodor Dostoevsky, The Brothers Karamazov*
+\- Nausicaa, in *Nausicaa of the Valley of the Wind*Who do you affirm
+
+*I see the sun, and if I don't see the sun, I know it's there. And there's a whole life in that, in knowing that the sun is there.*
+
+\- Dmitri Karamazov, in *The Brothers Karamazov*
 
 We are doomed to fall - this was always how our story was going to end. And yet, we continue to tell stories of other possibilities. One of a universal law of justice that apportions reward and punishment across lifetimes, or of a system for all beings to extinguish the vicious cycle of consequence we are all trapped within. Or a story that all good and evil are but part of the will of God, or that once, a supreme act of self-sacrifice liberated all from the burden of sin. 
 
@@ -372,7 +389,7 @@ We continue to tell each other stories, despite them being exercises in failure,
 
 What is faith, but to have such a connection with a story, that one would think and act as though it were true? 
 
-What is hope, but to be so deeply invested in a story that one would do anything to make it true? 
+What is hope, but to be so deeply invested in a story that one would do anything to make it true?
 
 And what is love, but to live and die so that the truth of a story will be heard? 
 
@@ -390,7 +407,9 @@ And if this path only leads to destruction, then so be it. If Christianity meant
 
 ### Failing Upwards
 
-_" I can hear a voice in my heart, all the time. Go forward, it tells me. So all I think of now is of going forward, as far as I am able." - Nausicaa of the Valley of the Wind_
+_" I can hear a voice in my heart, all the time. Go forward, it tells me. So all I think of now is of going forward, as far as I am able."_
+
+\- Nausicaa, *Nausicaa of the Valley of the Wind*
 
 Today, I return home to Indonesia, after spending one third of my life abroad. I had little choice in this matter; my 3-year work permit has ended, and despite my best efforts, I was unable to secure residency.
 
@@ -400,7 +419,7 @@ As of now, though, I feel a resolute calm. Barring a few points, I am content wi
 
 And though I fail again, this time I fail _upwards_.
 
-Let me tell you a story about home. It is a place where the sun is bright and warm but the sky is always shrouded by smog. It is a place where the rain falls hard and long, but the water cannot be drunk. It is a land that is green and rich above and below, but where millions struggle to survive. 
+Let me tell you a story about home. It is a place where the sun is bright and warm but the sky is always shrouded by smog. It is a place where the rain falls hard and long, but the waters are poisoned. It is a land that is green and rich above and below, but where millions struggle to survive. 
 
 Let me tell you how such a land sent me across the world. Thousands of tonnes of minerals wrested from the earth and burnt in faraway factories. Decades of wealth accumulated from investments, from the labour of my family and country, and spent on tuition. For me to have seen what I have seen and done what I have done, immense sacrifices have been made by my parents, my country, the very earth itself. Indeed, the ones to whom I still owe a debt of gratitude are back home, waiting for me.
 
