@@ -213,7 +213,7 @@ I wasn't always happy during these years - I was still stressed and frustrated a
 
 \- Father Zossima, in *The Brothers Karamazov*
 
-I could appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
+I could note appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
 
 The one part of Dostoevsky's corpus that stuck with me throughout university was The Grand Inquisitor, and its enigmatic ending. I tried on many occasions to make sense of it, but I always left empty-handed.
 
