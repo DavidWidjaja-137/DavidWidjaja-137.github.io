@@ -68,7 +68,7 @@ Why am I alive when so many have died? Why am I allowed hope amidst such catastr
 
 I am not causally related to the suffering human across the waters; her misfortune could not have been my luck. And yet, now having lost a small part of myself, I begin to reach across to the damaged parts of others. Having died a little to myself, I begin to see others struggling with both living and dying. And having received hope when I least expected it, I begin to understand the resilient beauty of this world.
 
-As I started receiving paychecks from my internship work, I was struck with a realization: That this was not my money.
+As I started receiving a salary from my internship work, I was struck with a realization: That this was not my money.
 
 ### To find tomorrow
 
@@ -319,7 +319,7 @@ Nervously, I did the economic calculation, tabulating the entire cost of my educ
 
 The results were startling. 23 person-years of the average Indonesian livelihood, pouring upwards into my parent's investments, had been invested into my education. Between 16 - 130 person-years of livelihood have been made possible by my humanitarian contributions. It is therefore, extremely likely that my journey to this point had not been a mistake.
 
-There was a sense of elationthe darkness of my own humanity. at first, but once again, the same emptiness. I had just tried to prove my own goodness and justify my privileges with economics. If someone in a difficult situation were to perform the same calculation, even if they were a heroic revolutionary or saint dependent on the financing of others, they would be trapped in a societal debt so deep as to appear as no recourse were possible.
+There was a sense of elation at first, but once again, the same emptiness. I had just tried to prove my own goodness and justify my privileges with economics. If someone in a difficult situation were to perform the same calculation, even if they were a heroic revolutionary or saint dependent on the financing of others, they would be trapped in a societal debt so deep as to appear as no recourse were possible.
 
 The important question isn't 'can you justify your privileges and sense of goodness' - when one and one's world is complicit in genocide, there can be no justifications of privilege, nor proof of beneficience. 
 
