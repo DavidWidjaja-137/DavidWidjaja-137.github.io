@@ -213,7 +213,10 @@ I wasn't always happy during these years - I was still stressed and frustrated a
 
 \- Father Zossima, in *The Brothers Karamazov*
 
-I could note appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
+
+
+
+I could not appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
 
 The one part of Dostoevsky's corpus that stuck with me throughout university was The Grand Inquisitor, and its enigmatic ending. I tried on many occasions to make sense of it, but I always left empty-handed.
 
@@ -281,7 +284,7 @@ What is left, then?
 
 *"For the sake of a single sprout, countless forest spores rain down again and again, dying a useless death" - Nausicaa of the Valley of the Wind*
 
-That we must live. When we devote our life and death to high ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. And for one person to receive the gifts of love, faith, and hope in their life, many other persons around the world, human and non-human, subsist in a truncated and deficient way. If someone constructs their denunciation of God's world from the suffering inflicted on those persons, they must either seek to eradicate the same suffering to remain consistent, even if it means rejecting the world entire, or to accept the absence of any values whatsover. However, if one creates their affirmation of life by the presence of these ideals, one is forced to live by them, and if necessary, to die for them.
+That we must live. When we devote our life and death to high ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. And for one person to receive the gifts of love, faith, and hope in their life, many other persons around the world, human and non-human, subsist in a truncated and deficient way. If someone constructs their denunciation of God's world from the suffering inflicted on those persons, they must either seek to eradicate the same suffering to remain consistent, even if it means rejecting the world, or to accept the absence of any values whatsover. However, if one creates their affirmation of life by the presence of these ideals, one is forced to live by them, and if necessary, to die for them.
 
 And to know the price of the ideals that we embody is borne by an entire world of suffering, we must realize that each of us are responsible for the sins of an entire world. To maintain an affirmation of life from these ideals, one must find it within themselves to make amends for everyone. And for others to maintain an affirmation of life from these ideals, one must find it within themselves to forgive everyone. From this principle stems, like a natural ecology that lives within even the smallest leaf and the tiniest insect, an ecology of love that reaches from the depths of hell to the presence of God.
 
@@ -367,7 +370,7 @@ If the world is so vast, magnificent, and beautiful, and if I have had the oppor
 
 I've been waiting, for years now, for a new moment of enlightenment. Water overflowing their reservoirs, streams colliding and joining with force, a great river surging forwards towards perfection. I would drown in this flow, be consumed by it, and give life to a hundred thousand trees before reaching the ocean. But instead, from a muddy, stagnant, pool, my own reflection stares back.
 
-And so I come to understand again despair. The constant that binds my past and present together, as well as my future. Nomatter how eloquently I can articulate my convictions, nomatter how much I convince myself that a better person has emerged out of the old, in truth I have not been able to escape my flaws. Despite the light I have seen, I cannot escape the darkness of my own humanity.
+And so I come to understand again despair. The constant that binds my past and present together, as well as my future. Nomatter how eloquently I can articulate my convictions, nomatter how much I convince myself that a better person has emerged out of the old, in truth I have not been able to escape my flaws. Despite the light I have witnessed, I cannot escape the darkness of my own humanity.
 
 No one can. From conflict to conflict, atrocity to atrocity, genocide to genocide - we have not learnt anything. We remain cursed to repeat our mistakes over and over again. Words like _gratitude_ and _affirmation_ turn to ash and dust in my mouth as I recall the hundreds of thousands dead.
 
