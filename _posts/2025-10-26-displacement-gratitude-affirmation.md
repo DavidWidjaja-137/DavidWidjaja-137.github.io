@@ -195,10 +195,7 @@ I drew upon Immanuel Kant's categorical imperatives. I found good advice within 
 
 The multitude of worldviews and voices, quarrelsome and contentious without rest, had for once, converged as a chorus upon a single point - that is, that the suffering are entitled to the wealth that I currently possess.
 
-Once, I gave to ground myself against my own dimassacred in Kabul the same week - had my friend become just another statistic in my mind, or had I accepted the death of one friend, 69 times?
-
-I attended the funeral mass, and though I had stopped believing, I could not help but yearn to see my friend again. I reflected upon the Christian conception on heaven and hell, and how it informs our attitudes towards death and salvation. 
-splacement and despair. When I became stronger, I gave with a spirit of gratitude and compassion. And now, it has become something inseperable from myself.
+Once, I gave to ground myself against my own displacement and despair. When I became stronger, I gave with a spirit of gratitude and compassion. And now, it has become something inseperable from myself.
 
 I set aside an emergency fund from my own salary. For two working years, I gave everything above that to effective humanitarian aid, environmental causes, and community organizations. In that time, I started playing the violin again, exercising, writing, and working on personal projects. I found friends and mentors who would influence my life for the better.
 
@@ -216,7 +213,7 @@ I wasn't always happy during these years - I was still stressed and frustrated a
 
 
 
-I could not appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for a *material* resolution to her conditions.
+I could not appreciate Dostoevsky back in high school. The characters behaved erratically, ranted feverishly, and were obviously in an unhealthy state of mind. I remembered being bewildered at Raskolnikov's delirium after he had committed his terrible crime, and wondered why he was unable to 'lock in' and complete the rest of his plan. Sonia's timid presence, rather than demonstrating the strength of her spirituality against despair, evoked in me a new determination to search for *material* resolutions to her conditions.
 
 The one part of Dostoevsky's corpus that stuck with me throughout university was The Grand Inquisitor, and its enigmatic ending. I tried on many occasions to make sense of it, but I always left empty-handed.
 
@@ -284,9 +281,13 @@ What is left, then?
 
 *"For the sake of a single sprout, countless forest spores rain down again and again, dying a useless death" - Nausicaa of the Valley of the Wind*
 
-That we must live. When we devote our life and death to high ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. And for one person to receive the gifts of love, faith, and hope in their life, many other persons around the world, human and non-human, subsist in a truncated and deficient way. If someone constructs their denunciation of God's world from the suffering inflicted on those persons, they must either seek to eradicate the same suffering to remain consistent, even if it means rejecting the world, or to accept the absence of any values whatsover. However, if one creates their affirmation of life by the presence of these ideals, one is forced to live by them, and if necessary, to die for them.
+That we must live. When we devote our life and our death to the highest ideals, it is likely that nothing will come of it, but for the sake of even one other person, we must continue. Without any knowledge of our own salvation or of any material reward, we must continue.
 
-And to know the price of the ideals that we embody is borne by an entire world of suffering, we must realize that each of us are responsible for the sins of an entire world. To maintain an affirmation of life from these ideals, one must find it within themselves to make amends for everyone. And for others to maintain an affirmation of life from these ideals, one must find it within themselves to forgive everyone. From this principle stems, like a natural ecology that lives within even the smallest leaf and the tiniest insect, an ecology of love that reaches from the depths of hell to the presence of God.
+For even one person to receive the ideals of love, faith, and hope in their life, many innocent persons around the world, human and non-human, subsist in a miserable and deficient way. If someone constructs their denunciation of God and His world from the suffering inflicted on those persons, moral consistency demands that they eradicate the same suffering. If suffering is the only absolute of life and if love, faith and hope, the higher ideals that we can live for, are all material, conditional and temporary, then utilitarian consistency demands that one abolish God, the world, and all life. 
+
+However, we can begin with life. If one creates their affirmation of life by the presence of higher ideals in this world, consistency requires one to live and die by them. To know that the presence of these ideals is borne by an entire world of suffering, we must realize that each of us are responsible for the sins of an entire world. To maintain an affirmation of life from these ideals, one must be able to love and to suffer, to the point of death, for anyone who suffers. And for others to maintain an affirmation of life from these ideals, one must forgive and suffer all wrongs against oneself.
+
+From this relational principle stems, like a natural ecology that lives within even the smallest leaf and the tiniest insect, an ecology of love that reaches from the depths of hell to the presence of God.
 
 Therefore, one cannot hold both an affirmation of life from the presence of love, and a denunciation of God's world from a position of love, at the same time. 
 
@@ -380,15 +381,17 @@ Each of us, we are not only responsible for the sins of the world, in the sense 
 
 *Even if our bodies cannot tolerate that purity... even if the moment we are exposed to it, we spew blood from our lungs... just as the birds migrate across the land, we shall live, and live again.*
 
-\- Nausicaa, in *Nausicaa of the Valley of the Wind*Who do you affirm
+\- Nausicaa, in *Nausicaa of the Valley of the Wind*
 
 *I see the sun, and if I don't see the sun, I know it's there. And there's a whole life in that, in knowing that the sun is there.*
 
 \- Dmitri Karamazov, in *The Brothers Karamazov*
 
-We are doomed to fall - this was always how our story was going to end. And yet, we continue to tell stories of other possibilities. One of a universal law of justice that apportions reward and punishment across lifetimes, or of a system for all beings to extinguish the vicious cycle of consequence we are all trapped within. Or a story that all good and evil are but part of the will of God, or that once, a supreme act of self-sacrifice liberated all from the burden of sin. 
+We are doomed to fall - this was always how our story was going to end. We cannot affirm anything to their fullness and completion, not the higher ideals, not ourselves, not God.
 
-We continue to tell each other stories, despite them being exercises in failure, because they bring us to confront, and to ultimately come to an understanding with, the nature of other persons, and our own natures.
+And yet, we continue to tell stories of possibilities. One of a universal law of justice that apportions reward and punishment across lifetimes, or of a system for all beings to extinguish the vicious cycle of consequence we are all trapped within. Or a story that all good and evil are but part of the will of God, or that once, a supreme act of self-sacrifice liberated all from the burden of sin. 
+
+We continue to tell each other stories, despite them being exercises in failure, because they bring us to confront and to understand our own natures and the natures of other persons. We understand the higher ideals through our interactions with these stories:
 
 What is faith, but to have such a connection with a story, that one would think and act as though it were true? 
 
@@ -396,9 +399,9 @@ What is hope, but to be so deeply invested in a story that one would do anything
 
 And what is love, but to live and die so that the truth of a story will be heard? 
 
-The stories we tell ourselves, age after age, even the ones arising out of chaos and darkness, tell us that these transcendent qualities arise again and again within us, though we are unworthy of them.
+The stories we tell ourselves, age after age, even the ones arising out of chaos and darkness, tell us that these transcendent qualities speak again and again to us, though we are unworthy of them. We respond to these stories, we rise to embody their qualities, and we inevitably fail and fall away.
 
-Tapestries of wild flowers, blossoming from a barren ruins into a tiny ecology, climbing towards the light, before finally falling away so that a new generation can rise again. How wonderful would it be, if this small ecology is but a shattered reflection of a greater ecology, one that does not fade or diminish, but rather perpetuates itself through all seasons, contains itself in its infinite complexity, one and all together! 
+Tapestries of wild flowers, blossoming from a barren ruins into a tiny ecology, climbing towards the light, before finally withering away so that a new generation can rise again. How wonderful would it be, if this small ecology is but a shattered reflection of a greater ecology, one that does not fade or diminish but rather perpetuates itself through all seasons, contains itself in its infinite complexity, one and all together! 
 
 However, isn't it enough of a miracle that barrenness can give way to life, even for an instant?
 
