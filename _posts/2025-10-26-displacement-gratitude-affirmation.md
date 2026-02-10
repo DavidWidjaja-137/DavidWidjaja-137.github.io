@@ -389,7 +389,9 @@ Each of us, we are not only responsible for the sins of the world, in the sense 
 
 We are doomed to fall - this was always how our story was going to end. We cannot affirm anything to their fullness and completion, not the higher ideals, not ourselves, not God.
 
-And yet, we continue to tell stories of possibilities. One of a universal law of justice that apportions reward and punishment across lifetimes, or of a system for all beings to extinguish the vicious cycle of consequence we are all trapped within. Or a story that all good and evil are but part of the will of God, or that once, a supreme act of self-sacrifice liberated all from the burden of sin. 
+And yet, we continue to tell stories of other possibilities. One of a universal law of justice that apportions reward and punishment across lifetimes, or of a system for all beings to extinguish the vicious cycle of consequence we are all trapped within. Or a story that all good and evil are but part of the will of God, or that once, a supreme act of self-sacrifice liberated all from the burden of sin.
+
+We cannot help but to tell these stories. 
 
 We continue to tell each other stories, despite them being exercises in failure, because they bring us to confront and to understand our own natures and the natures of other persons. We understand the higher ideals through our interactions with these stories:
 
@@ -399,9 +401,9 @@ What is hope, but to be so deeply invested in a story that one would do anything
 
 And what is love, but to live and die so that the truth of a story will be heard? 
 
-The stories we tell ourselves, age after age, even the ones arising out of chaos and darkness, tell us that these transcendent qualities speak again and again to us, though we are unworthy of them. We respond to these stories, we rise to embody their qualities, and we inevitably fail and fall away.
+The stories we tell ourselves, age after age, even the ones arising out of chaos and darkness, tell us that these transcendent qualities speak again and again to us, though we are unworthy of them. We respond to these stories, we rise to embody their truth, and we inevitably fail and fade away.
 
-Tapestries of wild flowers, blossoming from a barren ruins into a tiny ecology, climbing towards the light, before finally withering away so that a new generation can rise again. How wonderful would it be, if this small ecology is but a shattered reflection of a greater ecology, one that does not fade or diminish but rather perpetuates itself through all seasons, contains itself in its infinite complexity, one and all together! 
+Tapestries of wild flowers, blossoming from a barren ruins into a tiny ecology, climbing towards the light, before finally falling away so that a new generation can rise again. How wonderful would it be, if this small ecology is but a shattered reflection of a greater ecology, one that does not fade or diminish but rather perpetuates itself through all seasons, contains itself in its infinite complexity, one and all together! 
 
 However, isn't it enough of a miracle that barrenness can give way to life, even for an instant?
 
