@@ -299,7 +299,7 @@ God is alive in the beauty and the suffering of life's conversation with life. I
 
 *Can we be good people? Or have we just been pretending to be good people, all this while?"*
 
-At the 2023 Fridays for the Future climate march, I reflected on the results of this worldview, and found that it was good. I was doing good work that I was proud of, working on personal projects, improving my technical skills, practising the violin, and exercising. Each month, I gave almost all of my disposable income for humanitarian and environmental needs, and I knew with certainty that many lives were being saved and improved because of this. Horrible crimes were being perpetrated around the world, but so long as I utterly commit to their resolution, I could be content.
+At the 2023 Fridays for the Future climate march, I reflected on the results of this worldview, and found that it was good. I was doing good work that I was proud of, working on personal projects, improving my technical skills, practising the violin, and exercising. Each month, I gave almost all of my discretionary income for humanitarian and environmental needs, and I knew with certainty that many lives were being saved and improved because of this. Horrible crimes were being perpetrated around the world, but so long as I utterly commit to their resolution, I could be content.
 
 There was nothing left for me to do, therefore, nothing to feel anguished about.
 
